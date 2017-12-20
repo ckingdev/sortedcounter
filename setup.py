@@ -12,4 +12,5 @@ setup(
     download_url = 'https://github.com/ckingdev/sortedcounter/archive/0.1.tar.gz',
     keywords = ['counter', 'collection', 'sorted', 'dict'],
     classifiers = [],
+    description='A Counter like the collections class but with sorted keys.',
 )
